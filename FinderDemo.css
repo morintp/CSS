@@ -17,7 +17,7 @@
   margin: 0 auto;
   max-width: 800px;
   color: #1a1a1a;
-  font-family: 'TT Norms Pro';
+  font-family: 'Calibri';
   font-weight: 500;
   letter-spacing: 0.01em;
   -webkit-font-smoothing: antialiased;
@@ -150,7 +150,7 @@ a, a:hover, a:focus {
 #finder_form .panel-footer {
   padding: 0;
   background: none;
-  font: 500 12px/1.5 'TT Norms Pro' !important;
+  font: 500 12px/1.5 'Calibri' !important;
   letter-spacing: 0.01em !important;
   color: #1a1a1a !important;
 }
@@ -245,7 +245,7 @@ a, a:hover, a:focus {
   display: inline-block;
   margin: 35px 16px 0;
   padding: 5px 34px;
-  font: 700 14px/1 'TT Norms Pro';
+  font: 700 14px/1 'Calibri';
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: #1a1a1a;
