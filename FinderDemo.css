@@ -198,7 +198,9 @@ a, a:hover, a:focus {
   text-align: left;
 }
 
-
+#finder .control-label::after {
+  content: ":";
+}
 
 #finder .finder_form_right {
   padding: 0 0 0 100px;
