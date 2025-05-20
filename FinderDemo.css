@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-#finder_header::after {
+#finder_header::before {
   content: "Kramer Beverage";
   font-size: 20px;
   color: #ECE3D7;
