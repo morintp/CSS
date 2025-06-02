@@ -7,12 +7,6 @@
   text-align: center;
 }
 
-#finder_header::before {
-  content: "Kramer Beverage";
-  font-size: 20px;
-  color: #ECE3D7;
-}
-
 #finder_body {
   margin: 0 auto;
   max-width: 800px;
@@ -189,6 +183,14 @@ a, a:hover, a:focus {
   margin: 0;
 }
 
+#form-group-BFCAT3 {
+  display: none;
+}
+
+#form-group-BFCAT1 {
+  display: none;
+}
+
 #finder .form-group + .form-group:not(.hidden):not(.alert) {
   border-top: 1px solid #1a1a1a;
 }
@@ -329,3 +331,4 @@ a, a:hover, a:focus {
   -webkit-border-radius: 0;
   border-radius: 0;
   color: #1
+}  
