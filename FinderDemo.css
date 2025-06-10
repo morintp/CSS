@@ -235,48 +235,16 @@ a, a:hover, a:focus {
   color: #016F7F;
 }
 
-#finder .btn,
-#finder_body .pagination > li > a {
+#finder .btn {
+  background-color: #016F7F; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
   display: inline-block;
-  margin: 35px 16px 0;
-  padding: 5px 34px;
   font: 700 14px/1 'Calibri';
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
   color: #FFFFFF;
-  cursor: pointer;
-  border: 1px solid #016F7F;
-  outline: none;
-  -webkit-border-radius: 0;
-  border-radius: 0;
-  background-color: #016F7F;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  will-change: color, background-color;
-  -webkit-transition: color 200ms linear, background-color 200ms linear;
-  -o-transition: color 200ms linear, background-color 200ms linear;
-  -moz-transition: color 200ms linear, background-color 200ms linear;
-  transition: color 200ms linear, background-color 200ms linear;
-}
-
-#finder .btn:hover,
-#finder .btn:focus,
-#finder_body .pagination > li > a:hover,
-#finder_body .pagination > li > a:focus {
-  color: #FFEED4;
-  background-color: #016F7F;
-}
-
-#finder .btn:disabled,
-#finder_body .pagination > li > a:disabled {
-  cursor: not-allowed;
-  background: transparent;
-  color: #016F7F;
-}
-
-#finder .btn:last-of-type,
-#finder_body .pagination > li > a:last-of-type {
-  margin-right: 111px;
 }
 
 #finder_body .pagination > li > a {
