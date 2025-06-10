@@ -1,12 +1,5 @@
 @import url("https://use.typekit.net/nrk5nju.css");
 
-#finder_header {
-  background-color: black;
-  color: #ECE3D7; /* Same as the page background */
-  padding: 20px;
-  text-align: center;
-}
-
 #finder_body {
   margin: 0 auto;
   max-width: 800px;
@@ -130,7 +123,7 @@ a, a:hover, a:focus {
 
 #finder_form .panel {
   margin: 0 auto;
-  background: #ECE3D7;
+  background: #FFEED4;
   -webkit-border-radius: 0;
   border-radius: 0;
   -webkit-box-shadow: none;
