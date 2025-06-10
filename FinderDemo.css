@@ -249,7 +249,7 @@ a, a:hover, a:focus {
   outline: none;
   -webkit-border-radius: 0;
   border-radius: 0;
-  background: transparent;
+  background-color: #016F7F;
   -webkit-box-shadow: none;
   box-shadow: none;
   will-change: color, background-color;
