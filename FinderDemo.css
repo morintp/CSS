@@ -246,6 +246,14 @@ a, a:hover, a:focus {
   font: 700 14px/1 'Calibri';
   color: #FFFFFF;
 }
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 
 #finder_body .pagination > li > a {
   margin-top: 15px;
