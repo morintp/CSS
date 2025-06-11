@@ -243,16 +243,11 @@ a, a:hover, a:focus {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  margin: auto;
   font: 700 14px/1 'Calibri';
   color: #FFFFFF;
 }
-.horizontal-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
+
 
 #finder_body .pagination > li > a {
   margin-top: 15px;
