@@ -242,7 +242,7 @@ a, a:hover, a:focus {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   margin: auto;
   font: 700 14px/1 'Calibri';
   color: #FFFFFF;
